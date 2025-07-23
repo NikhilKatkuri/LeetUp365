@@ -50,7 +50,12 @@ solutions/
 problem-solving (as of July 23, 2025).
 - **Commit History**: Reflects daily dedication and consistent progress.
 <!-- LEETCODE_STATS_START -->
-  **LeetCode stats will be auto-injected here**
+### 💡 LeetCode Stats (auto-updated)
+
+- ✅ Total Solved: 29
+- 🟢 Easy: 23
+- 🟠 Medium: 5
+- 🔴 Hard: 1
 <!-- LEETCODE_STATS_END -->
 
 
