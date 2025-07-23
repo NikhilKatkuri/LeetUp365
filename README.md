@@ -23,14 +23,14 @@ solutions/
 │   ├── Easy/
 │   │   ├──two-sum/
 │   │   │   ├── solution
-│   │   │   └── README.md
+│   │   │   └── solution.md
 │   ├── Medium/
 │   ├── Hard/
 ├── Day-002/
 │   ├── Easy/
 │   │   ├── valid-parentheses/
 │   │   │   ├── solution
-│   │   │   └── README.md
+│   │   │   └── solution.md
 │   ├── Medium/
 │   ├── Hard/
 └── README.md
