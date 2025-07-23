@@ -52,8 +52,8 @@ problem-solving (as of July 23, 2025).
 <!-- LEETCODE_STATS_START -->
 ### 💡 LeetCode Stats (auto-updated)
 
-- ✅ Total Solved: 29
-- 🟢 Easy: 23
+- ✅ Total Solved: 30
+- 🟢 Easy: 24
 - 🟠 Medium: 5
 - 🔴 Hard: 1
 <!-- LEETCODE_STATS_END -->
